@@ -1,0 +1,5 @@
+sanic==22.6.2
+diffusers==0.12.1
+transformers
+scipy
+accelerate
